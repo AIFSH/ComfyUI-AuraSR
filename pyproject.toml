@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-aurasr"
+description = "a node for [a/AuraSR](https://github.com/fal-ai/aura-sr)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/AIFSH/ComfyUI-AuraSR"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-AuraSR"
+Icon = ""
